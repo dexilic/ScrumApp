@@ -1,4 +1,4 @@
-ScrumApp
+﻿ScrumApp
 ========
 
-Application for scrum master and developers.
+Application for scrum masters and developers.
